@@ -203,7 +203,7 @@
 }
 
 .card-text-accent:hover {
-  text-decoration: underline;
+  border-bottom: 1px solid currentColor;
 }
 
 .card-text-accent:focus {
