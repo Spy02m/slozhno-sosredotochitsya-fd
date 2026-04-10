@@ -21,7 +21,7 @@
   --footer-title-shadow-color: #ff0070;
 }
 
-.theme-light .rec-container {
+.theme-light .rec {
   display: none;
 }
 
@@ -43,7 +43,7 @@
     --footer-title-shadow-color: #ff0070;
   }
 
-  .theme-light .rec-container {
+  .rec {
     display: none;
   }
 }

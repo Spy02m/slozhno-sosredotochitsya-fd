@@ -20,3 +20,7 @@
   --footer-title-color: #db00ff;
   --footer-title-shadow-color: #ff0070;
 }
+
+.theme-dark .rec {
+  display: flex;
+}
